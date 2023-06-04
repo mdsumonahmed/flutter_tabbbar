@@ -44,13 +44,13 @@ class HomePage extends StatelessWidget {
           Center(
             child: Text(
               'Tab3',
-              style: TextStyle(fontSize: 40),
+              style: TextStyle(fontSize: 45),
             ),
           ),
           Center(
             child: Text(
               'Tab4',
-              style: TextStyle(fontSize: 40),
+              style: TextStyle(fontSize: 45),
             ),
           ),
         ]),
